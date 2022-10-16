@@ -1,0 +1,18 @@
+programa
+{
+	funcao inicio ()
+	{
+		inteiro nomecompleto
+		inteiro CPF
+		inteiro email
+		
+		escreva("Digite seu nome completo:")
+		leia(nomecompleto)
+		
+		escreva("Digite seu CPF:")
+		leia(CPF)
+		
+		escreva("Digite seu e-mail:")
+		leia(email)
+	}
+}
